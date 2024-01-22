@@ -1,0 +1,31 @@
+{
+    "name": "DEFI",
+    "logoURI": "https://www.xxxxxxxxxxxx/logo.png",
+    "keywords": [
+        "defi",
+        "DEFI",
+        "yield"
+    ],
+    "timestamp": "2020-09-01T01:40:34.305Z",
+    "tokens": [
+        {
+            "chainId": 168587773,
+            "address": "0x4200000000000000000000000000000000000023",
+            "name": "Wrapped Ether",
+            "symbol": "WETH",
+            "decimals": 18
+        },
+        {
+            "chainId": 168587773,
+            "address": "0x82C353484c0a557aff07A74f0cda13eb7e52DB08",
+            "name": "USD Mock Token",
+            "symbol": "USDM",
+            "decimals": 6
+        }
+    ],
+    "version": {
+        "major": 0,
+        "minor": 0,
+        "patch": 0
+    }
+}
